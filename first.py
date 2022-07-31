@@ -4,3 +4,6 @@ print(fruits)
 newfruits=["kiwi","watermelon"]
 fruits.extend(newfruits)
 print(fruits)
+a=1
+b=2
+print(a+b)
