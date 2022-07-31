@@ -7,4 +7,5 @@ print(fruits)
 a=10
 b=2
 c=35
+d = 45345
 print(a+b)
